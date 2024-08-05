@@ -13,9 +13,9 @@ module.exports = {
         customGray: "#1F1F1F",
         customDark: "#141414",
         /** Font Family */
-        fontFamily: {
-          "Inter": ["Inter", "sans-serif"],
-        },
+      },
+      fontFamily: {
+        "Inter": ["Inter", "sans-serif"],
       },
     },
   },
