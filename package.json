@@ -130,7 +130,7 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "build-css": "tailwindcss build src/style.css -o public/style.css"
+    "build-css": "tailwindcss build src/input.css -o public/style.css"
   },
   "keywords": [],
   "author": "",
